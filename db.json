@@ -1,11 +1,14 @@
-[
-   "Pais",
-   {
-      "Colombia":[
-         
-      ],
-      "España":[
-         
-      ]
+{
+   "Colombia":{
+      "Antioquia":{
+         "Marinilla":[
+            
+         ]
+      },
+      "Bogota":{
+         "Chapinero":[
+            
+         ]
+      }
    }
-]
+}
