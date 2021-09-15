@@ -1,11 +1,24 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Hola"
-    }
-  ],
-  "profile": {
-    "name": "Andres Torres"
-  }
+   "pais":"Colombia",
+   "Departamento":{
+      "Antioquia":{
+         "Marinilla":{
+            "ruta_1":"LatLong"
+         },
+		 "Rio Negro":{
+			"ruta_1":"LatLong"
+		 },
+		 "La Ceja":{
+			"ruta_1":"LatLong"
+		 }
+      },
+      "Botoga":{
+         "Chapinero":{
+            "ruta_1":"LatLong"
+         },
+		 "Usme":{
+            "ruta_1":"LatLong"
+         }		 
+      }
+   }
 }
