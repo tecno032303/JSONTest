@@ -1,14 +1,28 @@
 {
    "Colombia":{
       "Antioquia":{
-         "Marinilla":[
-            
-         ]
+         "Marinilla":{
+            "ruta_1":"LatLong",
+            "ruta_2":"LatLong",
+            "ruta_3":"LatLong"
+         },
+         "Rionegro":{
+            "ruta_1":"LatLong",
+            "ruta_2":"LatLong",
+            "ruta_3":"LatLong"
+         },
+         "La Ceja":{
+            "ruta_1":"LatLong",
+            "ruta_2":"LatLong",
+            "ruta_3":"LatLong"
+         }
       },
       "Bogota":{
-         "Chapinero":[
-            
-         ]
+         "Chapinero":{
+            "ruta_1":"LatLong",
+            "ruta_2":"LatLong",
+            "ruta_3":"LatLong"
+         }
       }
    }
 }
