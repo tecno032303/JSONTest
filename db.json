@@ -2,31 +2,146 @@
    "Colombia":{
       "Antioquia":{
          "Marinilla":{
-            "1":"LatLong",
-            "2":"LatLong",
-            "3":"LatLong"
+            "ruta":{
+               "1":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "2":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "3":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ]
+            }
          },
          "Rionegro":{
-            "1":"LatLong",
-            "2":"LatLong",
-            "3":"LatLong"
+            "ruta":{
+               "1":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "2":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "3":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ]
+            }
          },
          "La Ceja":{
-            "1":"LatLong",
-            "2":"LatLong",
-            "3":"LatLong"
+            "ruta":{
+               "1":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "2":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "3":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ]
+            }
          }
       },
       "Bogota":{
          "Chapinero":{
-            "1":"LatLong",
-            "2":"LatLong",
-            "3":"LatLong"
+            "ruta":{
+               "1":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "2":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "3":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ]
+            }
          },
          "Usme":{
-            "1":"LatLong",
-            "2":"LatLong",
-            "3":"LatLong"
+            "ruta":{
+               "1":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "2":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ],
+               "3":[
+                  {
+                     "latitud":12345
+                  },
+                  {
+                     "longitud":12345
+                  }
+               ]
+            }
          }
       }
    }
