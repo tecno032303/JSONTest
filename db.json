@@ -1,21 +1,6 @@
-{
-   "pais":[
-      "Colombia",
-      [
-         "Departamento",
-         [
-            "Antioquia",
-            [
-               "Localidad",
-               [
-                  "Marinilla",
-                  [
-                     "ruta_1",
-                     "LatLong"
-                  ]
-               ]
-            ]
-         ]
-      ]
-   ]
-}
+[
+	"Pais",[
+		"Colombia","España"
+	]
+
+]
