@@ -40,6 +40,17 @@
                }
             }
          }
+      },
+      "Mexico":{
+         "Monterrey":{
+            "Nuevo Leon":{
+               "ruta":{
+                  "1":"[{'latitud':12345},{'longitud':12345}]",
+                  "2":"[{'latitud':12345},{'longitud':12345}]",
+                  "3":"[{'latitud':12345},{'longitud':12345}]"
+               }
+            }
+         }
       }
    }
 }
