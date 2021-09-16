@@ -1,53 +1,49 @@
 {
-   "Colombia":{
-         "codigo":"057",
-         "pais":"Colombia",
-         "departamentos":[
+   "departamentos":[
+      {
+         "codigo":"05",
+         "nombre":"Antioquia",
+         "rutas":[
             {
-               "codigo":"05",
-               "nombre":"Antioquia",
-               "rutas":[
+               "codigo":"054020",
+               "nombre":"Marinilla",
+               "rutasLocales":[
                   {
-                     "codigo":"054020",
-                     "nombre":"Marinilla",
-                     "rutasLocales":[
-                        {
-                           "ruta_1":"['latitud':'657540','longitud':'-856945']"
-                        },
-                        {
-                           "ruta_2":"['latitud':'657540','longitud':'-856945']"
-                        }
-                     ]
+                     "ruta_1":"['latitud':'657540','longitud':'-856945']"
                   },
-				  {
-                     "codigo":"054040",
-                     "nombre":"Rionegro",
-                     "rutasLocales":[
-                        {
-                           "ruta_1":"['latitud':'657540','longitud':'-856945']"
-                        },
-                        {
-                           "ruta_2":"['latitud':'657540','longitud':'-856945']"
-                        }
-                     ]
+                  {
+                     "ruta_2":"['latitud':'657540','longitud':'-856945']"
                   }
                ]
             },
             {
-               "codigo":"118942",
-               "nombre":"Bogota",
-               "rutas":[
+               "codigo":"054040",
+               "nombre":"Rionegro",
+               "rutasLocales":[
                   {
-                     "codigo":"110111",
-                     "nombre":"Usaquen",
-                     "rutasLocales":[
-                        {
-                           "ruta_1":"['latitud':'657540','longitud':'-856945']"
-                        }
-                     ]
+                     "ruta_1":"['latitud':'657540','longitud':'-856945']"
+                  },
+                  {
+                     "ruta_2":"['latitud':'657540','longitud':'-856945']"
                   }
                ]
             }
          ]
-   }  
+      },
+      {
+         "codigo":"118942",
+         "nombre":"Bogota",
+         "rutas":[
+            {
+               "codigo":"110111",
+               "nombre":"Usaquen",
+               "rutasLocales":[
+                  {
+                     "ruta_1":"['latitud':'657540','longitud':'-856945']"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }
