@@ -1,7 +1,7 @@
 {
    "departamentos":[
       {
-         "codigo":"05",
+         "id":"05",
          "nombre":"Antioquia",
          "rutas":[
             {
@@ -17,7 +17,7 @@
                ]
             },
             {
-               "codigo":"054040",
+               "id":"054040",
                "nombre":"Rionegro",
                "rutasLocales":[
                   {
@@ -31,11 +31,11 @@
          ]
       },
       {
-         "codigo":"118942",
+         "id":"118942",
          "nombre":"Bogota",
          "rutas":[
             {
-               "codigo":"110111",
+               "id":"110111",
                "nombre":"Usaquen",
                "rutasLocales":[
                   {
