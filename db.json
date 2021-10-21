@@ -1,11 +1,11 @@
 [
    {
       "id":"05",
-      "nombre":"Antioquia",
+      "name":"Antioquia",
       "rutas":[
          {
             "codigo":"054020",
-            "nombre":"Marinilla",
+            "name":"Marinilla",
             "rutasLocales":[
                {
                   "ruta_1":"['latitud':'657540','longitud':'-856945']"
@@ -16,8 +16,8 @@
             ]
          },
          {
-            "id":"054040",
-            "nombre":"Rionegro",
+            "codigo":"054040",
+            "name":"Rionegro",
             "rutasLocales":[
                {
                   "ruta_1":"['latitud':'657540','longitud':'-856945']"
@@ -31,11 +31,11 @@
    },
    {
       "id":"118942",
-      "nombre":"Bogota",
+      "name":"Bogota",
       "rutas":[
          {
             "id":"110111",
-            "nombre":"Usaquen",
+            "name":"Usaquen",
             "rutasLocales":[
                {
                   "ruta_1":"['latitud':'657540','longitud':'-856945']"
